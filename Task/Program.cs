@@ -19,3 +19,5 @@ for (int i = 0; i < arrayA.Length; i++)
         count++;
     }
 }
+
+Console.WriteLine(String.Join(" ", arrayB));
