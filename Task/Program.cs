@@ -7,3 +7,7 @@
 //            [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 //            [“Russia”, “Denmark”, “Kazan”] → []
 
+string[] arrayA = {"123", "1", "hello", "world", "=)"};
+string[] arrayB = new string[arrayA.Length];
+int count = 0;
+
